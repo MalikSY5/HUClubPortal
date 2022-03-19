@@ -1,7 +1,8 @@
 # HUClubPortal
 A portal that holds all org and club information for Howard University. 
 
-Due to the Covid 19 pandemic, there has been a sever in club and organization life for Howard students. Often times students are clueless about what is occuring on campus because very little information is provided about these different organizations. To solve this issue, we have ddecided to create a portal that concentrates all the information of the organizations at Howard University and displays is in one area for students to look at and interact with saif organization easier than before. 
+
+It is an important part of the college experience to be able to volunteer and join different organizations and clubs. However, with Howards current distribution source it is not so user friendly nor easy to obtain the necessary information for the myriad of clubs and organizations Howard has to offer. Therefore, we believe in innovating an idea and making it not only user friendly for the consumer but also for the organization owners as well. To solve this issue, we have decided to create an online-base portal that centralizes not only all the clubs that are registered, but newers that have recently been created with their corresponding information displayed in one area. This allows easy accessibility for students to explore and match their current interest with said organizations and clubs easier than before.
 
 Contributer Notes:
 
