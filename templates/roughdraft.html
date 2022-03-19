@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+    <title>HU CLUB PORTAL</title>
+
+</head>
+<body>
+    <style>
+        .block{
+            width: 300px;
+            height: 80px;
+        }
+    </style>
+    <div class="menu-bar">
+        <h1 class="logo">HU!<span> You Know!</span></h1>
+
+        <ul>
+            <li><a href="#">Home</a></li> 
+            <li><a href="#">Organizations</a></li>
+            <li><a href="#">Careers</a></li> 
+            <li><a href="#">About</a></li> 
+            <li><a href="#">Contact us</a></li> 
+        </ul>
+    </div>
+    <div class="container">
+            <button class="click">NSBE Org</button> 
+            <div class='list'>
+                <button class="links"><a href="https://www.instagram.com/howardnsbe/">Connect with us</a></button>
+                <button class="links"><a href="https://www.instagram.com/p/CbLwlRUrddZ/">Recent Updates</a></button>
+            </div>
+    </div>
+    <script>
+        let click = document.querySelector('.click');
+        let list = document.querySelector('.list');
+        click.addEventListener("click", ()=>{list.classList.toggle('newlist')})
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
