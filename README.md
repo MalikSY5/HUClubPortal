@@ -5,6 +5,6 @@ Due to the Covid 19 pandemic, there has been a sever in club and organization li
 
 Contributer Notes:
 
-DO NOT TOUCH DATA.txt file!!
-DO NOT TOUCH templates folder!!
-Do NOT TOUCH static folder!!
+DO NOT TOUCH DATA.txt file!!\n
+DO NOT TOUCH templates folder!!\n
+Do NOT TOUCH static folder!!\n
